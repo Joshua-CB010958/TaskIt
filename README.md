@@ -1,11 +1,13 @@
-#TaskIt
+# TaskIt
+Click on the link to try it out
+[TaskIt](https://joshua-cb010958.github.io/TaskIt/)
 
 I've created a comprehensive task management application with both backend and frontend components. The solution includes a RESTful Express API backend with in-memory storage and a responsive Vue.js frontend with beautiful Apple-inspired design elements.
 
-#Updates coming soon..
+# Updates coming soon..
 loading...
 
-#functionalities
+# Functionalities
 - Add, edit, and delete tasks
 - Store tasks in-memory (no DB needed)
 - Frontend in Vue with Axios
@@ -14,7 +16,7 @@ loading...
 - Vue.js reactivity
 - Connecting frontend and backend via Axios
 
-#Tech stack
+# Tech stack
 - Node.js 
 - Express
 - Vue.js
